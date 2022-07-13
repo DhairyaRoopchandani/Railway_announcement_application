@@ -1,3 +1,4 @@
+![Screenshot (12)](https://user-images.githubusercontent.com/86298045/178718628-c995bcfa-b875-4244-887c-b645d3f40273.png)
 # Railway_announcement_application
 This is a python based GUI application which can play the announcements which are being played on the stations.
 To run the application:
